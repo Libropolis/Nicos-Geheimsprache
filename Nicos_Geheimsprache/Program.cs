@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+//Dieser Code wurde mit hilfe von ChatGPT gemacht und von Libropolis überarbeitet und verbessert
 
 namespace Nicos_Geheimsprache
 {
