@@ -1,0 +1,7 @@
+C:\Users\jonas\Desktop\Visual Studio Projekte\Nicos_Geheimsprache\Nicos_Geheimsprache\bin\Debug\Nicos_Geheimsprache.exe.config
+C:\Users\jonas\Desktop\Visual Studio Projekte\Nicos_Geheimsprache\Nicos_Geheimsprache\bin\Debug\Nicos_Geheimsprache.exe
+C:\Users\jonas\Desktop\Visual Studio Projekte\Nicos_Geheimsprache\Nicos_Geheimsprache\bin\Debug\Nicos_Geheimsprache.pdb
+C:\Users\jonas\Desktop\Visual Studio Projekte\Nicos_Geheimsprache\Nicos_Geheimsprache\obj\Debug\Nicos_Geheimsprache.csproj.AssemblyReference.cache
+C:\Users\jonas\Desktop\Visual Studio Projekte\Nicos_Geheimsprache\Nicos_Geheimsprache\obj\Debug\Nicos_Geheimsprache.csproj.CoreCompileInputs.cache
+C:\Users\jonas\Desktop\Visual Studio Projekte\Nicos_Geheimsprache\Nicos_Geheimsprache\obj\Debug\Nicos_Geheimsprache.exe
+C:\Users\jonas\Desktop\Visual Studio Projekte\Nicos_Geheimsprache\Nicos_Geheimsprache\obj\Debug\Nicos_Geheimsprache.pdb
